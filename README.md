@@ -39,6 +39,6 @@
     3. 복습 잘 하기!
     4. 운동 꾸준히 하기!
 
-    5. 싸탈하기!
+    5. 모두 함께 싸탈하기!
 
         ![싸탈](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPmndL%2Fbtq1V2o0USb%2FKnW34zpj78VoBvflQiWkWK%2Fimg.png)
