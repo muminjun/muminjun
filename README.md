@@ -31,6 +31,12 @@
     5. 눕기.. 
 
         ![눕기](https://post-phinf.pstatic.net/MjAyMDAzMTdfMjM5/MDAxNTg0NDEwMjk2NzM4.YSa2_p5ml755aIzLR-16LSJ0UA7dcDV9RDc0OvCGWT8g.Z0sBvxT59MGn2b-17mu6Bm8G-btJjXVVbk0SSOxbgaAg.PNG/2.png?type=w1200)
+        
+    6. 맛있는거 먹기~🥰 
+
+        ![먹기](https://jjalbang.today/jjv2it.jpg)
+        
+        다 먹고살자고 하는건데~~~
     ---
 
 - 목표
