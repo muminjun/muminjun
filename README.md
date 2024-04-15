@@ -1,7 +1,9 @@
 # 저를 🐮🐶합니다.
 ## 광주 1반 김민준
 ### 생년월일 : 1999 / 08 / 16
-#### ![인스타](https://image.telanganatoday.com/wp-content/uploads/2022/04/Instagram-rolls-out-new-messaging-features-and-more_V_jpg--442x260-4g.webp?sw=412&dsz=442x260&iw=412&p=false&r=2.625) @yxwxwq
+#### ![인스타](https://image.telanganatoday.com/wp-content/uploads/2022/04/Instagram-rolls-out-new-messaging-features-and-more_V_jpg--442x260-4g.webp?sw=412&dsz=442x260&iw=412&p=false&r=2.625) @[yxwxwq](https://www.instagram.com/yxwxwq)
+
+
 
 
 - 사는 곳
