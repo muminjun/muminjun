@@ -14,7 +14,7 @@
 - 전공
     - 경영학과 (차변.. 대변..)
     
-        ![경영학과](https://scontent-ssn1-1.xx.fbcdn.net/v/t31.18172-8/20615643_1501881343203240_5008864925500958161_o.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=110&ccb=1-7&_nc_sid=110474&_nc_ohc=gpF5D-TZw7QAX_-A7e8&_nc_oc=AQkacrVsleg1jBEExbqxpRogoiUgBSJUG3Dxz60044ttzeXtO3pXSrzHI4EZL7v9fuo&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAjhqu_91kbRpZb2pBFBzAH-KHtYpHGb1udLlaxNma2tA&oe=64D5A912)
+        ![경영학과](https://s3.orbi.kr/data/file/united2/55b5173289424f92839258cce09ad03d.jpeg)
     ---
 - MBTI
     - INFJ 그 잡채,,
