@@ -51,13 +51,13 @@
 
 <br><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duckhan)](https://solved.ac/duckhan/) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckhan&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yid0816)](https://solved.ac/yid0816/) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yid0816&theme=warm)
 
 <br><br>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estuma&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estuma&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moominjun&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="MinJun's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moominjun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
