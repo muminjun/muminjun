@@ -1,54 +1,68 @@
-# 저를 🐮🐶합니다.
-## 광주 1반 김민준
-### 생년월일 : 1999 / 08 / 16
-#### ![인스타](https://image.telanganatoday.com/wp-content/uploads/2022/04/Instagram-rolls-out-new-messaging-features-and-more_V_jpg--442x260-4g.webp?sw=412&dsz=442x260&iw=412&p=false&r=2.625) @[yxwxwq](https://www.instagram.com/yxwxwq)
+<div align="center"> 
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=7b66ff&height=160&section=header&text=MinJun's%20github&fontSize=40)
+
+## Experience
+
+💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
+
+
+<br/><br/>
+
+## Skill
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<br>
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=Unity&logoColor=white">
+<!-- <br> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">  -->
+<!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"> -->
+
+<br/><br/><br/>
+
+## Projects
+
+
+
+| Title | Introduction | Languages, etc. |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/moominjun/chuka">Throwng</a> | 온라인 롤링페이퍼 및 선물 펀딩 플랫폼 (2024) | Java, Spring Security, JWT, MongoDB, RabbitMQ |
+| <a href="https://github.com/moominjun/yeojung">여행을 정산하다, 여정</a> | 여행 정산 어플리케이션 (2024) | Java, Spring Boot, JPA, Redis, Jenkins, Docker |
+| <a href="https://github.com/moominjun/Mela">오늘은 낚시왕</a> | 음악 작업을 위한 구인, 공동 작업 플랫폼 (2024) | Java, Spring Boot, JPA, WebSocket |
+| <a href="https://github.com/moominjun/TripLog"></a> | 여행 계획 및 사진 공유 플랫폼 (2023) | Java, Spring Boot, MyBatis, MySql, Vue.js, Pinia |
+
+<br><br><br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duckhan)](https://solved.ac/duckhan/) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckhan&theme=warm)
+
+<br><br>
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estuma&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estuma&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
 
-- 사는 곳
-    - 요 앞 (장덕동~)
 
-        ![축구착시](https://cdn.spochoo.com/news/photo/201707/19095_28500.jpg)
-    ---
-- 전공
-    - 경영학과 (차변.. 대변..)
-    
-        ![경영학과](https://s3.orbi.kr/data/file/united2/55b5173289424f92839258cce09ad03d.jpeg)
-    ---
-- MBTI
-    - INFJ 그 잡채,,
-    ---
-- 좌우명
-    - ***둥글게 살자*** (모나게 살지 않기)
-        
-        ![둥글게](https://images.ddengle.com/files/attach/images/11334861/591/659/011/70dec10519c3c2a452e96f13e383419e.JPG)
-    ---
-- 취미
-    1. 런닝
-    2. 수영
-    3. 풋살
-    4. 배드민턴
 
-    5. 눕기.. 
-
-        ![눕기](https://post-phinf.pstatic.net/MjAyMDAzMTdfMjM5/MDAxNTg0NDEwMjk2NzM4.YSa2_p5ml755aIzLR-16LSJ0UA7dcDV9RDc0OvCGWT8g.Z0sBvxT59MGn2b-17mu6Bm8G-btJjXVVbk0SSOxbgaAg.PNG/2.png?type=w1200)
-        
-    6. 맛있는거 먹기~🥰 
-
-        ![먹기](https://jjalbang.today/jjv2it.jpg)
-        
-        다 먹고살자고 하는건데~~~
-    ---
-
-- 목표
-    1. 끝까지 완주하기!
-    2. 훌륭하신 동료분들과 함께 잘 지내기!
-    3. 복습 잘 하기!
-    4. 운동 꾸준히 하기!
-
-    5. 모두 함께 싸탈하기!
-
-        ![싸탈](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPmndL%2Fbtq1V2o0USb%2FKnW34zpj78VoBvflQiWkWK%2Fimg.png)
-
-    6. 코딩마스터하기!!
+</div>
