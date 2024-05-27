@@ -36,8 +36,8 @@ Communication :
 
 | Title | Introduction | Languages, etc. |
 | ------------- | ------------- | ------------- |
-| <a href="https://github.com/muminjun/Throwng">Throwng</a> | Location-based music sharing open source (2024) | TypeScript, React, Sass, Recoil, Vite, Flutter, Dart, Dio, Flutter Secure Storage |
-| <a href="https://github.com/muminjun/yeojung">여행을 정산하다, 여정</a> | 여행 정산 어플리케이션 (2024) | Flutter, Dart, Dio, Flutter Secure Storage, Provider |
+| <a href="https://github.com/muminjun/Throwng_master">Throwng</a> | Location-based music sharing open source (2024) | TypeScript, React, Sass, Recoil, Vite, Flutter, Dart, Dio, Flutter Secure Storage |
+| <a href="https://github.com/muminjun/Yeojung">여행을 정산하다, 여정</a> | 여행 정산 어플리케이션 (2024) | Flutter, Dart, Dio, Flutter Secure Storage, Provider |
 | <a href="https://github.com/muminjun/Gitaehasam">오늘은 낚시왕</a> | 낚시에 입문하고자 하는 MZ세대 맞춤 입문자용 낚시 서비스 (2024) | JavaScript, React, Sass, OpenVidu, Vite |
 | <a href="https://github.com/muminjun/ssafy_pjt_SAMSUNG_BVNK">SAM$UNG BVNK</a> | SAM$UNG BVNK (2023) | JavaScript, Vue.js |
 
