@@ -44,7 +44,6 @@ Communication :
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yid0816)](https://solved.ac/yid0816/) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yid0816&theme=warm)
 
 <br>
 
