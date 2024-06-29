@@ -4,7 +4,7 @@
 
 ## Experience
 
-💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
+💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ 2024.07)<br>
 
 <br/>
 
